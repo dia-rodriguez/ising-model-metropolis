@@ -1,2 +1,2 @@
 # ising-model-metropolis
-This is a project is about ising model metropolis algorithm
+This project includes 2D Ising model simulation utilizing the Metropolis MCMC algorithm to compute for its energy, entropy, heat capacity, magnetization and magnetic susceptibility as well as plotting its behavior.
